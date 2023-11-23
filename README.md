@@ -1,7 +1,7 @@
 # Recsys_using_RAG_ChatBot
 
-Food Recommendation Chatbot
-Project Overview
+- Food Recommendation Chatbot
+- Project Overview
 This project features a Streamlit-based chatbot that recommends food places based on user queries. Leveraging a sophisticated AI model, the chatbot processes user input to suggest the best food options, focusing on vegan choices in California.
 
 ## Key Features
